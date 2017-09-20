@@ -1,0 +1,28 @@
+{
+  "name": "graphql-good-reads",
+  "version": "1.0.0",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TovarishFin/graphql-good-reads.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TovarishFin/graphql-good-reads/issues"
+  },
+  "homepage": "https://github.com/TovarishFin/graphql-good-reads#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.3",
+    "node-fetch": "^1.7.3",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {},
+  "description": ""
+}
